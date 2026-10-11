@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Frontend dependencies and build
+node_modules/
+.next/
+out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+# Local database
+backend/*.db
+backend/*.db-*
+
+# Generated reports and test output
+backend/reports/
+backend/ndvi_overlay_test.png

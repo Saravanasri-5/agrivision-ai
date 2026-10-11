@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"Ambasamudram Taluk (demo AOI, ~42 km2)"},"geometry":{"type":"Polygon","coordinates":[[[77.45,8.68],[77.52,8.68],[77.52,8.73],[77.45,8.73],[77.45,8.68]]]}},
+{"type":"Feature","properties":{"name":"Cheranmahadevi Taluk (demo AOI, ~58 km2)"},"geometry":{"type":"Polygon","coordinates":[[[77.50,8.66],[77.58,8.66],[77.58,8.72],[77.50,8.72],[77.50,8.66]]]}}]}
